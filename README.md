@@ -16,9 +16,12 @@
    
 2. Using Hierarichal Clusturing to analyse the data.
    With the help of 2 clusture marked as 
+   
    2.1. RED
    
    2.2. Blue
    
    Red Symbolize Profitable customer where as Blue symbolize not so profitable customers.
    
+-----------------------------------------------------------------------
+A Data analysis project
