@@ -7,6 +7,7 @@ import pandas as pd
 
 # Importing the dataset
 dataset = pd.read_csv('insurance.csv')
+# Taking Age and Price only for the prediction
 X = dataset.iloc[:, [0, 6]].values
 
 # Using the Dendogram to find optimal number of cluster
